@@ -43,6 +43,13 @@ Cameras on PoE is very standard, so this list should only be cameras that includ
 |---|---|---|
 | [AirVisual Outdoor](https://www.iqair.com/products/air-quality-monitors/airvisual-outdoor-2-pm) | AQI, PM1, PM2.5, PM10, temperature, relative humidity, barometric pressure, CO2 (optional) | [AirVisual](https://www.home-assistant.io/integrations/airvisual/) |
 
+## Displays
+
+| Device | Description |
+|---|---|
+| Philips 10BDL3051T/02 | PoE for data and power. VESA mountable. Only runs Android 8 |
+| [Geekland Displays](https://geekland.co/product-category/wall-mount-touch-screen-tablets/) | Poe for data and power. VESA mountable. Android 13. |
+
 ## Honorable Mentions
 These are devices that work really well with PoE->USB adapters and can still be nicely wall-mounted. 
 
