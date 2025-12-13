@@ -1,18 +1,16 @@
-# awesome-poe-smarthome
+# awesome-poe-smarthome <!-- omit in toc -->
 A list of smarthome devices designed to be PoE-first. In general, these are devices that work well (or at all) with Home Assistant. Due to that, I've included details on which integration allows the device to be added to HA.
 
-## Table of Contents
-- [awesome-poe-smarthome](#awesome-poe-smarthome)
-  - [Table of Contents](#table-of-contents)
-  - [Cameras](#cameras)
-  - [Air Quality](#air-quality)
-  - [Presence](#presence)
-  - [Lighting](#lighting)
-  - [Sirens/Speakers](#sirensspeakers)
-  - [Weather / Outdoor Air Quality](#weather--outdoor-air-quality)
-  - [Displays](#displays)
-  - [Bluetooth Proxies](#bluetooth-proxies)
-  - [Hubs](#hubs)
+### Table of Contents
+- [Cameras](#cameras)
+- [Air Quality](#air-quality)
+- [Presence](#presence)
+- [Lighting](#lighting)
+- [Sirens/Speakers](#sirensspeakers)
+- [Weather / Outdoor Air Quality](#weather--outdoor-air-quality)
+- [Displays](#displays)
+- [Bluetooth Proxies](#bluetooth-proxies)
+- [Hubs](#hubs)
 
 ## Cameras
 Cameras on PoE is very standard, so this list should only be cameras that include extra sensors.
