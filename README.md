@@ -77,6 +77,7 @@ Cameras on PoE is very standard, so this list should only be cameras that includ
 ## Media Players
 
 | Device | Integration |
+|---|---|
 | [Sonos Era 100 Pro](https://www.sonos.com/en-us/shop/era-100-pro) | [Sonos](https://www.home-assistant.io/integrations/sonos/) |
 | [Unifi PoE Audio Port](https://store.ui.com/us/en/products/upl-port) | Airplay possibly? Can't find confirmation. |
 
