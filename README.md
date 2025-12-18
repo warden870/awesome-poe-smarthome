@@ -86,6 +86,8 @@ Cameras on PoE is very standard, so this list should only be cameras that includ
 | Device | Sensors | Integration |
 |---|---|---|
 | [AirVisual Outdoor](https://www.iqair.com/products/air-quality-monitors/airvisual-outdoor-2-pm) | AQI, PM1, PM2.5, PM10, temperature, relative humidity, barometric pressure, CO2 (optional) | [AirVisual](https://www.home-assistant.io/integrations/airvisual/) |
+| [IQTronic IQWS-4000](http://www.iqtronic.com/products/ethernet-lan-ip-weather-station-with-storm-detection/) | Wind speed – instantaneous, average and gust, Wind direction, Beaufort, Windchill, Humidity (relative, absolute), Dewpoint, Absolute or relative pressure, Sunlight intensity, UV factor, Lightning strikes distance detector | [HTTP REST, SNMP](https://community.home-assistant.io/t/iqtronic-iqws4000-weather-station-integration/584582) ([docs](http://www.iqtronic.com/wp-content/uploads/2023/03/IQWS4000_manual_en.pdf)) |
+| [Papago METEO](https://en.papouch.com/papago-meteo-eth-industrial-weather-station-main-base-with-ethernet-and-poe-p6878/?vid=6860) | wind speed and direction, temperature, humidity, dew point, atmospheric pressure and concentration of carbon dioxide | HTTP REST, SNMP |
 
 ## Displays
 
